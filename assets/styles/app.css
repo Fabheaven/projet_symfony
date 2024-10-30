@@ -16,7 +16,7 @@ body{
 
 
 .navbar {
-    background-color: purple;
+    background-color: rgb(8, 53, 150);
     display: flex;
     align-items: center;
     justify-content: space-between;
